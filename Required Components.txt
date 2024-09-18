@@ -1,0 +1,8 @@
+1. Frame for glasses
+2. Infrared(IR) sensor
+3. Buzzer
+4. Arduino Nano Board 
+5. HW Battery
+6. Jumper wires female-female, male-male and female-male
+7. Switch
+8. Glue
